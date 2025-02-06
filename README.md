@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio de Sá, estou no 3° semestre de ensino.<br>Já desenvolvi projetos robustos, escaláveis e responsi<br>vos.<br>Trabalho atualmente como freelancer.
+Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio de Sá, estou no 3° semestre de ensino.<br>Já desenvolvi projetos robustos, escaláveis e responsivos.Trabalho atualmente como freelancer.
 
 
 
