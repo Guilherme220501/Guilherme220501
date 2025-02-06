@@ -16,8 +16,8 @@ jobs:
     - name: Generate Snake Game from GitHub Contribution Grid
       uses: Platane/snk@v3.2.0
       with:
-        github_user: 'Guilherme220501'  # Seu nome de usuário do GitHub
-        svg_out_path: './github-contribution-grid-snake.svg'
+        github_user_name: 'Guilherme220501'  # Seu nome de usuário do GitHub
+        outputs: 'github-contribution-grid-snake.svg'
     
     - name: Commit and push generated snake
       uses: EndBug/add-and-commit@v7
@@ -26,3 +26,4 @@ jobs:
         author_email: 'actions@github.com'
         message: 'Generated snake game'
         add: './github-contribution-grid-snake.svg'
+
