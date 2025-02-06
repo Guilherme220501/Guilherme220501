@@ -3,7 +3,7 @@ name: Generate Snake Game
 on:
   push:
     branches:
-      - main
+      - main  # Ou a branch que você utiliza para commits
 
 jobs:
   generate-snake-game:
@@ -17,7 +17,7 @@ jobs:
       uses: Platane/snk@v3.2.0
       with:
         github_user_name: 'Guilherme220501'  # Seu nome de usuário do GitHub
-        outputs: 'github-contribution-grid-snake.svg'
+        outputs: './github-contribution-grid-snake.svg'  # Caminho do arquivo de saída
     
     - name: Commit and push generated snake
       uses: EndBug/add-and-commit@v7
@@ -26,5 +26,3 @@ jobs:
         author_email: 'actions@github.com'
         message: 'Generated snake game'
         add: './github-contribution-grid-snake.svg'
-
-
