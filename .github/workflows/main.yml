@@ -27,3 +27,4 @@ jobs:
         message: 'Generated snake game'
         add: './github-contribution-grid-snake.svg'
 
+
