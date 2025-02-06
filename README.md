@@ -22,13 +22,7 @@ Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio d
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme220501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-# Olá, sou o Guilherme!
 
-Aqui está a cobrinha que mostra a evolução dos meus commits:
-
-# Olá, sou o Guilherme!
-
-Aqui está a cobrinha que mostra a evolução dos meus commits:
 
 ![Snake animation](github-contribution-grid-snake.svg)
 
