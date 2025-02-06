@@ -24,7 +24,12 @@ Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio d
   
 
 
+# Olá, sou o Guilherme!
+
+Aqui está a cobrinha que mostra a evolução dos meus commits:
+
 ![Snake animation](github-contribution-grid-snake.svg)
+
 
 
 
