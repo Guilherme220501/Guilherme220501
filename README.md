@@ -22,6 +22,20 @@ Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio d
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme220501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
+</picture>
+</div>
+
 ![snake animation](https://github.com/<seu Guilherme220501>/<seu Guilherme220501>/blob/output/github-contribution-grid-snake2.svg)
 
 
