@@ -21,7 +21,11 @@ Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio d
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme220501&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme220501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme220501/Guilherme220501/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme220501/Guilherme220501/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherme220501/Guilherme220501/output/github-contribution-grid-snake.svg">
+</picture>
 <h1 align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
