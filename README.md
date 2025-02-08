@@ -27,7 +27,6 @@ Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio d
 </h1>
 
 
-![snake animation](https://github.com/<Guilherme220501>/<README.md>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
