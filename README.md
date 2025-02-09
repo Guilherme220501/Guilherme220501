@@ -1,9 +1,13 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&color=F85F36&lines=Sou+Guilherme;Desenvolvedor+FULL-STACK;Atuo+há+três+anos+na+área;Sou+apaixonado+por+tecnologia" />
 </h1>
-# About Me ★:
-Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio de Sá, estou no 3° semestre de ensino.Já desenvolvi projetos robustos, escaláveis e responsivos.Trabalho atualmente como freelancer.
+# ⭐ Sobre mim  
 
+Olá! Me chamo **Guilherme Barbosa da Silva** e sou estudante de **Engenharia de Software** na Estácio de Sá, atualmente no **3º semestre**.  
+
+🚀 Tenho experiência no desenvolvimento de **projetos robustos, escaláveis e responsivos**, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.  
+
+💼 Trabalho atualmente como **freelancer**, criando soluções eficientes para a web.
 
 
 # 💻 Tech Stack:
