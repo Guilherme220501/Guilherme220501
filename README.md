@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=35&center=true&vCenter=true&width=650&height=70&duration=2500&pause=1200&color=007ACC&lines=Olá%2C+sou+Guilherme!;Desenvolvedor+Full-Stack;Experiência+em+HTML%2C+CSS%2C+JavaScript;Criando+soluções+eficientes+e+inovadoras+Apaixonado+por+tecnologia+e+aprendizado+contínuo;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Lobster&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&color=F85F36&lines=Sou+Guilherme;Desenvolvedor+FULL-STACK;Atuo+há+três+anos+na+área;Sou+apaixonado+por+tecnologia" />
 </h1>
 # 💫 About Me:
 Sou Guilherme barbosa da Silva estudante de Engenharia de Software na Estácio de Sá, estou no 3° semestre de ensino.Já desenvolvi projetos robustos, escaláveis e responsivos.Trabalho atualmente como freelancer.
