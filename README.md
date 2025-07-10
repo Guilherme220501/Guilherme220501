@@ -3,7 +3,7 @@
 </h1>
  ⭐ Sobre mim:  
 
-Olá! Me chamo **Guilherme Barbosa da Silva** e sou estudante de **Engenharia de Software** na Estácio de Sá, atualmente no **3º semestre**.  
+Olá! Me chamo **Guilherme Barbosa da Silva** e sou estudante de **Engenharia de Software** na Estácio de Sá, atualmente no **4º semestre**.  
 
 🚀 Tenho experiência no desenvolvimento de **projetos robustos, escaláveis e responsivos**, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.  
 
