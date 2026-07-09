@@ -24,18 +24,16 @@ Olá! Me chamo **Guilherme Barbosa da Silva** e sou estudante de **Engenharia de
 
 # Estatísticas:
 <div align="center">
-  <a href="https://github.com/Guilherme220501">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Guilherme220501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      alt="Estatísticas do GitHub"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme220501&layout=compact&langs_count=8&theme=dracula"
-      alt="Linguagens mais usadas"
-    />
-  </a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme220501&theme=dracula&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Guilherme220501&show_icons=true&theme=dracula&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme220501/Guilherme220501/output/github-contribution-grid-snake-dark.svg">
