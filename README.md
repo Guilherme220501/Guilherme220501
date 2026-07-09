@@ -29,11 +29,6 @@ Olá! Me chamo **Guilherme Barbosa da Silva** e sou estudante de **Engenharia de
     height="180"
     alt="GitHub Streak"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Guilherme220501&show_icons=true&theme=dracula&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme220501/Guilherme220501/output/github-contribution-grid-snake-dark.svg">
